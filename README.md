@@ -9,12 +9,9 @@
 - Open to Finance Analyst and Data Analyst roles
 
 ## 🔭 Currently working on
-- **NVIDIA Data Analytics Project**: an end-to-end Excel build on a 500K+ row synthetic sales dataset, generated in Python with deliberate data quality issues to practice cleaning
-  - Excel dashboards built from the raw dataset
-  - 16-slide NVIDIA-branded PowerPoint deck with KPIs computed from raw data
-  - Follow-up to my Excel dashboard project, which was first runner-up at an institute competition
-- Deepening Python and SQL, with C++ next for algorithmic trading
-- Building toward quant projects: a backtesting engine, an NSE-data strategy and a PnL/risk dashboard
+- **Data analyst projects**: building end-to-end analyses in SQL, Python, Excel and Power BI
+- **Deepening Python and SQL**: data wrangling, analysis and query optimisation
+- **Preparing for NISM Series VIII**: Equity Derivatives certification
 
 ## 🛠️ Tools & Tech
 | Area | Stack |
